@@ -1,5 +1,4 @@
 
-@author: alumno
 
 from multiprocessing import Process
 from multiprocessing import current_process
